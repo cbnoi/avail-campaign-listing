@@ -1,0 +1,8 @@
+{
+	  "name": "cbnoiiii",
+	  "logo": "https://dl.openseauserdata.com/cache/originImage/files/d25b2d98445576d99e8d76bfee64f8bb.png",
+	  "rpc_url": "http://101.32.126.38:9944",
+	  "explorer_url": "http://101.32.126.38:4000",
+	  "metrics_endpoint": "http://101.32.126.38:9615/metrics",
+	  "id": "77ef6fbe-25f8-4aa1-914e-f3c08b4d67c1"
+}
